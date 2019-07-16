@@ -1,5 +1,5 @@
 # DataCollection
-Collecting data using many of Arduino friendly sensors, such as DHT11 to measure humidity and temperature and the photoresistor to measure light energy
+Collecting data using many of Arduino friendly sensors, such as DHT11 to measure humidity and temperature and the photoresistor to measure light energy. 
 
 # Resources
 * http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
@@ -21,3 +21,12 @@ Collecting data using many of Arduino friendly sensors, such as DHT11 to measure
 * https://www.youtube.com/watch?v=O_Q1WKCtWiA
   * Pratical Engineering's video is amazing if you'd like to create your own Arduino controlled garden.
     Gave me curiousity of how to use the DHT11, photoresistors, and other environmental sensors. 
+
+# What I Learned
+* Turn serial data from the Arduino into a TXT file into a CSV file
+* Function multiple sensors
+ * DHT11 Temperature and Humidity Sensor
+ * LiquidCrystalDisplay (LCD)
+ * DS3231 as a Real Time Clock or Temperature Sensor
+* Operate Fritzing Software
+* Designing circuits
