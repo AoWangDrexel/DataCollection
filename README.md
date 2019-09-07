@@ -19,7 +19,7 @@ Collecting data using many of Arduino friendly sensors, such as DHT11 to measure
 
 # Inspired
 * https://www.youtube.com/watch?v=O_Q1WKCtWiA
-  * Pratical Engineering's video is amazing if you'd like to create your own Arduino controlled garden.
+  * Practical Engineering's video is amazing if you'd like to create your own Arduino controlled garden.
     Gave me curiousity of how to use the DHT11, photoresistors, and other environmental sensors. 
 
 # What I Learned
